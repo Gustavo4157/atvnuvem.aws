@@ -1,2 +1,0 @@
-# atvnuvem.aws
-
