@@ -1,5 +1,4 @@
-atvnuvemaws
-Aqui está o texto formatado apenas com negrito e separadores, sem o uso de hashtags:
+
 
 Atividade: Desvendando a Nuvem com AWS
 

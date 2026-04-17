@@ -1,6 +1,5 @@
 # Relatorio de Atividade: Introducao ao AWS IAM
 
-Este documento descreve os passos e as conclusões obtidas durante o laboratório prático de AWS Identity and Access Management (IAM). O objetivo central foi entender como a Amazon Web Services lida com a identidade e o controle de acesso aos seus recursos de nuvem.
 
 ## Visao Geral do Laboratorio
 
